@@ -1,0 +1,31 @@
+{
+  "files": {
+    "main.css": "/udemy-clone/static/css/main.1c2f831d.css",
+    "main.js": "/udemy-clone/static/js/main.1e6a723a.js",
+    "static/media/hero_img.png": "/udemy-clone/static/media/hero_img.4bbd414ad6215e9e159f.png",
+    "static/media/cat_data_science.png": "/udemy-clone/static/media/cat_data_science.4343ab2a901b51933dfd.png",
+    "static/media/cat_marketing.png": "/udemy-clone/static/media/cat_marketing.82b40607eb5d70e826f4.png",
+    "static/media/cat_python.png": "/udemy-clone/static/media/cat_python.6a5cbc319ab3ddf8ef92.png",
+    "static/media/cat_aws.png": "/udemy-clone/static/media/cat_aws.15d6ff76175e4edb5cd4.png",
+    "static/media/cat_design.png": "/udemy-clone/static/media/cat_design.f721d6300da36dde4a81.png",
+    "static/media/cat_web_development.png": "/udemy-clone/static/media/cat_web_development.f9d169e80e84e333a6d1.png",
+    "static/media/data_science_3.jpg": "/udemy-clone/static/media/data_science_3.1bac98024088a70b1566.jpg",
+    "static/media/data_science_2.jpg": "/udemy-clone/static/media/data_science_2.f18e85757ac439519dc1.jpg",
+    "static/media/marketing_2.jpg": "/udemy-clone/static/media/marketing_2.a1cb6c4ff0a8342fccad.jpg",
+    "static/media/web_dev_4.jpg": "/udemy-clone/static/media/web_dev_4.bfa0b0932cfe1b731aea.jpg",
+    "static/media/web_dev_5.jpg": "/udemy-clone/static/media/web_dev_5.3213b957fbc815c6cb9f.jpg",
+    "static/media/python_4.jpg": "/udemy-clone/static/media/python_4.c87d2a4328c1828ab2f2.jpg",
+    "static/media/aws_1.jpg": "/udemy-clone/static/media/aws_1.5aa3a01928d4c648c1e9.jpg",
+    "static/media/web_dev_3.jpg": "/udemy-clone/static/media/web_dev_3.95934fdd8b540d859cc4.jpg",
+    "static/media/marketing_1.jpg": "/udemy-clone/static/media/marketing_1.5d856438f47223a9b30d.jpg",
+    "static/media/python_5.jpg": "/udemy-clone/static/media/python_5.6cb0263b9cb418cdf202.jpg",
+    "static/media/logo_udemy.svg": "/udemy-clone/static/media/logo_udemy.ac64b9eb547dc3795f53173b290203d9.svg",
+    "index.html": "/udemy-clone/index.html",
+    "main.1c2f831d.css.map": "/udemy-clone/static/css/main.1c2f831d.css.map",
+    "main.1e6a723a.js.map": "/udemy-clone/static/js/main.1e6a723a.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.1c2f831d.css",
+    "static/js/main.1e6a723a.js"
+  ]
+}
